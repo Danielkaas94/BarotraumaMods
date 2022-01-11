@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Tuba" path="Mods/Tuba/filelist.xml" corepackage="false" gameversion="0.15.22.1" steamworkshopid="2716184979" installtime="1641932287">
+  <None file="Mods/Tuba/Epic.ogg" />
+  <None file="Mods/Tuba/Hill.ogg" />
+  <None file="Mods/Tuba/King.ogg" />
+  <None file="Mods/Tuba/Tuba.png" />
+  <None file="Mods/Tuba/Cantina Band.ogg" />
+  <None file="Mods/Tuba/Pink.ogg" />
+  <Item file="Mods/Tuba/Tuba.xml" />
+</contentpackage>

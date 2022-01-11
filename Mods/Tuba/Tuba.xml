@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Tuba" identifier="tuba" category="Misc" Tags="bigitem" description="Classy Tuba!" price="650" isshootable="true">
+    <Price locationtype="City" buyprice="550" />
+    <Price locationtype="Research" buyprice="600" />
+    <Price locationtype="Military" buyprice="700" />
+    <Price locationtype="Outpost" buyprice="570" />
+    <Price locationtype="Mine" buyprice="600" />
+    <InventoryIcon texture="Tuba.png" sourcerect="0,0,49,99" />
+    <Sprite texture="Tuba.png" sourcerect="0,0,47,99" depth="0.5" origin="0.5,0.5" />
+    <Body radius="20" height="83" density="12" />
+    <Holdable slots="RightHand+LeftHand" controlpose="true" aimpos="30,-20" handle1="-2,-10" handle2="5,25" swingamount="5,10" swingspeed="2" swingwhenusing="true" msg="ItemMsgPickUpSelect">
+      <StatusEffect type="OnUse" target="Character">
+        <Conditional HasStatusTag="!equals clown" />
+        <sound file="Mods/Tuba/King.ogg" type="OnUse" selectionmode="CharacterSpecific" range="600" loop="true" />
+        <sound file="Mods/Tuba/Epic.ogg" type="OnUse" selectionmode="CharacterSpecific" range="600" loop="true" />
+        <sound file="Mods/Tuba/Cantina Band.ogg" type="OnUse" selectionmode="CharacterSpecific" range="600" loop="true" />
+        <sound file="Mods/Tuba/Pink.ogg" type="OnUse" selectionmode="CharacterSpecific" range="600" loop="true" />
+      </StatusEffect>
+      <StatusEffect type="OnUse" target="Character">
+        <Conditional HasStatusTag="clown" />
+        <sound file="Mods/Tuba/Hill.ogg" type="OnUse" range="600" loop="true" />
+      </StatusEffect>
+    </Holdable>
+  </Item>
+</Items>
