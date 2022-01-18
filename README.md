@@ -1,4 +1,7 @@
-# BarotraumaMods
+# Barotrauma Mods
+
+[![Barotrauma](https://img.youtube.com/vi/vCt9KaM2r8I/maxresdefault.jpg)](https://youtu.be/vCt9KaM2r8I)
+
 My mods for Barotrauma
 
     • Tuba
