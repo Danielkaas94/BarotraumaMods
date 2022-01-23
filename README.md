@@ -5,6 +5,7 @@
 My mods for Barotrauma
 
     • Tuba
+    • Purple Haze
 
 
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/602960/Barotrauma/)
