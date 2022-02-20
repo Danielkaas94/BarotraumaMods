@@ -8,6 +8,14 @@ My mods for Barotrauma
     • Purple Haze
 
 ## ScreenShot 📱
+
+### Bifrost 🌈
+<p align="center">
+
+[![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Subs/Bifrost/PreviewImage.jpg?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2749398685)
+</p>
+
+
 ### 💜Purple Haze💜
 <p align="center">
   <!-- <img alt="CMDFun in Action!" width="900" src="https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Subs/Purple%20Haze/Ph2.png?raw=true"> -->
