@@ -19,9 +19,8 @@ My mods for Barotrauma
 
 ### 💜Purple Haze💜
 <p align="center">
-  <!-- <img alt="CMDFun in Action!" width="900" src="https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Subs/Purple%20Haze/Ph2.png?raw=true"> -->
-
-[![Barotrauma](https://img.youtube.com/vi/1hW-BLRXKOY/maxresdefault.jpg)]([https://youtu.be/1hW-BLRXKOY](https://steamcommunity.com/sharedfiles/filedetails/?id=2728563776))
+    
+[![Barotrauma](https://img.youtube.com/vi/1hW-BLRXKOY/maxresdefault.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2728563776)
 </p>
 
 
