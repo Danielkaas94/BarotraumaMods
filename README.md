@@ -4,8 +4,9 @@
 
 My mods for Barotrauma
 
-    • Tuba
-    • Purple Haze
+    • Tuba 🎷
+    • 💜Purple Haze💜
+    • Bifrost 🌈
 
 ## ScreenShot 📱
 
