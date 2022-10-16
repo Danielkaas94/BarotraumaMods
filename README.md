@@ -27,7 +27,8 @@ My mods for Barotrauma
 
 ### Tuba 🎵🎶
 <p align="center">
-  <img alt="CMDFun in Action!" width="100" src="https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Tuba/Tuba.png?raw=true">
+
+[![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Tuba/Tuba.png?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2716184979)
 </p>
 
 
