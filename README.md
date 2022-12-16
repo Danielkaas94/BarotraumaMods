@@ -7,7 +7,7 @@
 </div>
 
 
-My mods for Barotrauma, which are available on Steam Workshop
+My mods for Barotrauma, which are available on [Steam Workshop](https://steamcommunity.com/id/Danielkaas94/myworkshopfiles/?appid=602960)
 
     • Tuba 🎷
     • 💜Purple Haze💜
