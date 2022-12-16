@@ -40,6 +40,10 @@ My mods for Barotrauma, which are available on Steam Workshop
 ## Tuba 🎵🎶
 
 [![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Tuba/Tuba.png?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2716184979)
+
+
+### [🎵⚓ Alien Syndicate ⚓🎶](https://youtu.be/yQhcMsDo8dA)
+
 </div>
 
 
