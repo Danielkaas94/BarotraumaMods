@@ -8,10 +8,10 @@ My mods for Barotrauma
     • 💜Purple Haze💜
     • Bifrost 🌈
 
-# ScreenShot 📱
-
 
 <div align="center">
+
+# Screenshots 📱
 
 ## Bifrost 🌈
 
