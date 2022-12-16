@@ -41,7 +41,7 @@ My mods for Barotrauma, which are available on Steam Workshop
 
 [![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Tuba/Tuba.png?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2716184979)
 
-
+### [🎵⚓ Subaquatic Symphony for Hammer and Metal ⚓🎶](https://youtu.be/JPaQmwQoEoY)
 ### [🎵⚓ Alien Syndicate ⚓🎶](https://youtu.be/yQhcMsDo8dA)
 
 </div>
