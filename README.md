@@ -8,28 +8,34 @@ My mods for Barotrauma
     • 💜Purple Haze💜
     • Bifrost 🌈
 
-## ScreenShot 📱
+# ScreenShot 📱
 
-### Bifrost 🌈
-<p align="center">
+
+<div align="center">
+
+## Bifrost 🌈
 
 [![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Subs/Bifrost/PreviewImage.jpg?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2749398685)
-</p>
+</div>
 
 
-### 💜Purple Haze💜
-<p align="center">
-    
+
+<div align="center">
+
+## 💜Purple Haze💜
+
 [![Barotrauma](https://img.youtube.com/vi/1hW-BLRXKOY/maxresdefault.jpg)](https://steamcommunity.com/sharedfiles/filedetails/?id=2728563776)
-</p>
+</div>
 
 
 
-### Tuba 🎵🎶
-<p align="center">
+
+<div align="center">
+
+## Tuba 🎵🎶
 
 [![Barotrauma](https://github.com/Danielkaas94/BarotraumaMods/blob/main/Mods/Tuba/Tuba.png?raw=true)](https://steamcommunity.com/sharedfiles/filedetails/?id=2716184979)
-</p>
+</div>
 
 
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/602960/Barotrauma/)
