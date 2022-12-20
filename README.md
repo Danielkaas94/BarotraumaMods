@@ -49,3 +49,8 @@ My mods for Barotrauma, which are available on [Steam Workshop](https://steamcom
 
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/602960/Barotrauma/)
 ### Thanks to [Regalis11](https://github.com/Regalis11), FakeFish and Undertow Games for making this game. 💙
+
+[Join CodeWars with me!](http://codewars.com/r/hGyTsQ/)
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
