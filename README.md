@@ -46,6 +46,12 @@ My mods for Barotrauma, which are available on [Steam Workshop](https://steamcom
 
 </div>
 
+<div align="center">
+
+[![Barotrauma: Making Of | Barotrauma 1.0 Release coming March 13th! ⚓](https://img.youtube.com/vi/4a1klzgmW-4/maxresdefault.jpg)](https://youtu.be/4a1klzgmW-4)
+>Barotrauma: Making Of | Barotrauma 1.0 Release coming March 13th! ⚓
+
+</div>
 
 ## Link to the [Steam Store Page](https://store.steampowered.com/app/602960/Barotrauma/)
 ### Thanks to [Regalis11](https://github.com/Regalis11), FakeFish and Undertow Games for making this game. 💙
